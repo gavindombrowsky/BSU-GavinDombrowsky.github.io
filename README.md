@@ -1,4 +1,8 @@
 # gavindombrowsky.github.io
-title: Gavin's homepage
-description: Project Updates for Gavin
-My name is Gavin
+Gavin's homepage
+My name is Gavin Dombrowsky
+**Interests**
+*[https://bogusbasin.org/](Snowboarding) 
+*Basketball
+*Volleyball
+**Fun things to enjoy in Boise**
