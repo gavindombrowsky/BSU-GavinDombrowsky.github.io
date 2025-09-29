@@ -5,10 +5,10 @@ My name is Gavin Dombrowsky
 
 **Interests**
 
-*[Snowboarding](https://bogusbasin.org)
+-[Snowboarding](https://bogusbasin.org)
 
-*Basketball
+-Basketball
 
-*Volleyball
+-Volleyball
 
 **Fun things to enjoy in Boise**
