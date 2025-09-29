@@ -5,7 +5,7 @@ My name is Gavin Dombrowsky
 
 **Interests**
 
-*[https://bogusbasin.org/](url)
+*[Snowboarding](https://bogusbasin.org)
 
 *Basketball
 
