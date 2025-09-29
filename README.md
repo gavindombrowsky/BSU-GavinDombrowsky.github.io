@@ -13,8 +13,8 @@ My name is Gavin Dombrowsky
 
 **Fun things to enjoy in Boise**
 
--[Going to Boise State Football games](https://broncosports.com/sports/football/schedule)
+1. [Going to Boise State Football games](https://broncosports.com/sports/football/schedule)
 
--Float the Boise River
+2. Float the Boise River
 
--Going to the Boise Art Museum
+3. Going to the Boise Art Museum
