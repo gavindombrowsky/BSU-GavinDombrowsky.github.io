@@ -12,3 +12,4 @@ My name is Gavin Dombrowsky
 -Volleyball
 
 **Fun things to enjoy in Boise**
+[Going to Boise State Football games](https://broncosports.com/sports/football/schedule)
