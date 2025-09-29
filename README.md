@@ -3,7 +3,7 @@ Gavin's homepage
 
 My name is Gavin Dombrowsky
 
-![Gavin]("C:\Users\gavin\Downloads\IMG_1566.jpeg")
+![Gavin]("IMG_1566.jpeg")
 
 **Interests**
 
